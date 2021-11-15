@@ -1,0 +1,88 @@
+html{
+	scroll-behavior: smooth;
+}
+
+.gradiente{
+	background-image: linear-gradient(to left, #F0FFF0, #DCDCDC);
+}
+
+.gradientedois{
+	background-color: #F5FFFA;
+	text-align: center;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+.paragrafo{
+	text-align: center;
+	font-size: 17px
+}
+
+#historia{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.linkcont{
+	text-decoration: none;
+	color: #696969;
+}
+
+.linkcont:hover{
+	color: #4F4F4F;
+}
+
+#contato{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	width: 100%
+}
+
+.tabela{
+	padding-top: 2%;
+
+}
+
+table, th, td{
+	text-align: center;
+	width: 50%;
+}
+
+table{
+	border-collapse: collapse;
+	width: 95%;
+}
+
+th, td{
+	padding: 15px;
+	border-radius: 30%;
+}
+
+.hover:hover{
+	background-color: #D3D3D3;
+}
+
+.naoformata{
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  border-radius: 0%;
+
+}
+
+.naoformatadois{
+	border-collapse: collapse;
+	width: 100%
+}
+
+.corzinha{
+	background-color: #FFFAFA;
+}
+
+.corzinhadois{
+	background-color: #FFF5EE;
+}
